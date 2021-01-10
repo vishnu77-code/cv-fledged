@@ -1,0 +1,73 @@
+/** @format */
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(https://images.pexels.com/photos/251225/pexels-photo-251225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-size: cover;
+}
+hr {
+  border-top: 3px dotted grey;
+  width: 10%;
+  border-bottom: none;
+  height: 0;
+}
+h1 {
+  text-align: center;
+  color: white;
+
+  font: italic;
+}
+
+h3 {
+  color: #66bfbf;
+}
+p {
+  color: white;
+}
+ul {
+  color: white;
+}
+td {
+  color: white;
+}
+ol {
+  color: white;
+  text-size-adjust: 4px;
+}
+.vishnu {
+  width: 125px;
+  height: 125px;
+  border-radius: 100%;
+}
+.gif {
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+h3 {
+  color: white;
+}
+.pip {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(https://images.pexels.com/photos/669996/pexels-photo-669996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+
+  transform: scale(1);
+  transform-origin: 0 0;
+}
+.center {
+  text-align: center;
+  position: relative;
+  nav-down: 100px;
+}
+.hi {
+  text-align: center;
+  nav-down: 100px;
+}
+a {
+  color: aliceblue;
+}
+th {
+  color: aliceblue;
+}
